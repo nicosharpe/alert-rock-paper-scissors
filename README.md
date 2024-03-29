@@ -1,0 +1,1 @@
+A game of Rock, Paper, Scissors that the user plays in the browser alert panel.
